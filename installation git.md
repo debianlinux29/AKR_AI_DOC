@@ -16,4 +16,6 @@
 
             3. Configurer le comportement de la ligne de commande : Choisissez "Use Git Bash only" pour utiliser l'interface de ligne de commande Git Bash. 
 
-            4. Configurer le terminal : Vous pouvez choisir d'utiliser MinTTY (la version par défaut) ou l'interface de ligne de commande Windows. 
+            4. Configurer le terminal : Vous pouvez choisir d'utiliser MinTTY (la version par défaut) ou l'interface de ligne de commande Windows.
+
+       2. ### créer un repo 
