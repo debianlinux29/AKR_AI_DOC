@@ -1,3 +1,5 @@
+https://github.com/debianlinux29/AKR_AI.git
+
 ### Étape 1 : Installer Git et Python
 
 Avant de commencer, assurez-vous d'avoir Git et Python installés sur votre machine. Vous pouvez vérifier cela en exécutant les commandes suivantes dans l'invite de commandes (CMD) :
